@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richardos Andrade @richardsonandrade-caboifpe.
+- 👋 Hi, I’m Richardson Andrade @richardsonandrade-caboifpe.
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning PHP and Laravel framework.
 - 💞️ I’m looking to collaborate on open-source projects,
